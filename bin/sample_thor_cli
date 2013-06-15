@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'sample_thor_cli'
+SampleThorCli::Runner.start
